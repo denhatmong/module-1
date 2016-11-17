@@ -8,4 +8,7 @@ public class StudentDaoImpl implements StudentDao {
 		System.out.println("Do something");
 	}
 
+	public void showMe(){
+		System.out.println("Do something: showMe");
+	}
 }
